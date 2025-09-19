@@ -32,6 +32,12 @@ Clone this repo and explore the [lib](lib) folder for the code samples.
 <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/26d4b525-e6b4-4d73-90b5-f8bb5301f96a" />
                                               Responsive.Dart
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f223c408-310a-4430-b56c-1a6444aee11b" />
+                                              Named_Routes.Dart
+<img width="1906" height="1077" alt="image" src="https://github.com/user-attachments/assets/42e10643-0ff2-4fc5-acbf-42d317d03fd5" />
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/aaf5175b-8628-47c1-9a95-0d6e1b89139b" />
+                                             Navigation>Dart
+<img width="1912" height="1061" alt="image" src="https://github.com/user-attachments/assets/efd06cc6-d32a-4be6-a97e-92a2ec265c21" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/1aaa4f3a-90d4-4654-868a-0fa0e81373fd" />
                                               Provider.Dart
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/e9d2e4bd-1636-4250-8535-696962483be0" />
                                               Stateless.Dart
