@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo" />
   <br>
-  <span style="font-size:48px;">👋</span>
+  <span style="font-size:148px;">👋</span>
 </p>
 
 ---
