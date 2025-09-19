@@ -1,23 +1,23 @@
 # Welcome to the Repository UI_Flutter
 
-✨ **A playground of Flutter & Dart experiments** — where creativity meets clean UI!
+✨ A playground of Flutter & Dart experiments — where creativity meets clean UI!
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo" />
-  <br>
-  <span style="font-size:148px;">👋</span>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" />
+  <br />
+  <span style="font-size: 48px;">👋</span>
 </p>
 
 ---
 
-## What you'll find here
+## What you’ll find here
 
-- Widgets UI Experiments
-- Modern Flutter layouts
-- Dart code samples and best practices
+- Modern Flutter UI experiments  
+- Dart code samples and practices  
+- Responsive and adaptive designs  
 
 ---
 
-## Get Started
+## How to use
 
-Clone the repo and open the `lib/` folder to explore all Dart experiments!
+Clone this repo and explore the [lib](lib) folder for the code samples.
