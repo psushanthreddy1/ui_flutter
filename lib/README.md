@@ -28,3 +28,7 @@ Clone this repo and explore the [lib](lib) folder for the code samples.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/67ea332f-d3c9-4a6d-a582-d8f124a9de42" />
                                               Widgets_demo.Dart
 <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/7961ec04-7175-4246-af0c-c26b7ba57e97" />
+                                              Mediaquery.Dart
+<img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/26d4b525-e6b4-4d73-90b5-f8bb5301f96a" />
+                                              Responsive.Dart
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f223c408-310a-4430-b56c-1a6444aee11b" />
